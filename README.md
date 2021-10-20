@@ -10,4 +10,6 @@ I'm building things for [Zendesk](https://www.zendesk.com), working with AWS, GC
 
 # Where you can reach me
 
-Find out more about me at my website ➡️ [liederbach.dev](https://liederbach.dev)
+All my current socials and contact info can be found on my website
+
+[liederbach.dev](https://liederbach.dev) 🌐
